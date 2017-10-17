@@ -1,0 +1,8 @@
+{
+  "name": "github-test",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xiaofan2406/github-test.git",
+  "author": "Xiaofan Wu <xiaofan2406@gmail.com>",
+  "license": "MIT"
+}
